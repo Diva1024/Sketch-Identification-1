@@ -1,0 +1,11 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color:rgb(209, 204, 191);
+    background-color: gray;
+}
+#show_sketch{
+float:right;
+font-size: 20;
+}
